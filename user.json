@@ -1,1 +1,10 @@
-
+[
+{
+  "id": "u001",
+  "name": "Parvez Tarek",
+  "email": "parvez@example.com",
+  "password": "mypassword123",
+  "phone": "01712345678",
+  "createdAt": "2025-08-08T10:00:00Z"
+}
+]
